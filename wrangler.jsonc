@@ -1,5 +1,5 @@
 {
-  "name": "sandy-daisy-d7c7",
+  "name": "saas-admin-template",
   "main": "./dist/index.js",
   "assets": {
     "directory": "./dist"
